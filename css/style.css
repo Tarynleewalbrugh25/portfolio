@@ -34,3 +34,8 @@ body {
     height: 1000px;
     width: 100%;
   }
+  @media screen and {
+    #projects {
+      height : 150vh;
+    }
+  }
