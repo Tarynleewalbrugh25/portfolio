@@ -29,19 +29,8 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
-img {
-    margin: 40px;
-    padding: 6px;
-    box-sizing: border-box;
-    width: 600px;
-}
-  img {
-    max-width: 100%
-  }
-  
   #sect1 {
     border: 1px solid #7a5c58;
     height: 1000px;
     width: 100%;
   }
-  
