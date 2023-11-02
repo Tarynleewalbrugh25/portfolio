@@ -20,6 +20,7 @@ body {
     height: 1000px;
     width: 100%;
   }
+
   /* @media screen and (min-width: 350px) {
     .card-body {
       height: 10vh;
@@ -136,3 +137,9 @@ body {
   color: white;
   transform: rotateY(180deg);
 }
+=======
+  @media screen and {
+    #projects {
+      height : 150vh;
+    }
+  }
